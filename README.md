@@ -8,11 +8,7 @@ Este repositório contém o código e os recursos para o **Previsor de Palavras 
 - [Visão Geral](#visão-geral)
 - [Conjunto de Dados](#conjunto-de-dados)
 - [Abordagem](#abordagem)
-- [Requisitos](#requisitos)
-- [Uso](#uso)
 - [Desempenho do Modelo](#desempenho-do-modelo)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## Visão Geral
 
@@ -50,4 +46,11 @@ A abordagem adotada neste projeto inclui as seguintes etapas:
 4. **Avaliação**: Uso de métricas como **Acurácia**, **F1 Score** e **AUC** para avaliar o desempenho do modelo.
 5. **Ajuste de Hiperparâmetros**: Otimização dos parâmetros do modelo para melhorar o desempenho.
 
+## Desempenho do Modelo
+
+| Modelo              | F1 Score | AUC  |
+|---------------------|----------|------|
+| Regressão Logística | 0.75     | 0.85 |
+| LSTM Bidirecional   | 0.80     | 0.88 |
+| BERT (fine-tuned)   | 0.85     | 0.90 |
 
