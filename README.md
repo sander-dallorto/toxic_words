@@ -28,12 +28,12 @@ O conjunto de dados utilizado neste desafio é fornecido pelo Kaggle e contém m
 
 ### Rótulos de Destino
 Os comentários são rotulados nas seguintes categorias:
-- `tóxico`
-- `severamente_tóxico`
-- `obsceno`
-- `ameaça`
-- `insulto`
-- `ódio_à_identidade`
+- `toxic`
+- `severe_toxic`
+- `obscene`
+- `threat`
+- `insult`
+- `identity_hate`
 
 ## Abordagem
 
