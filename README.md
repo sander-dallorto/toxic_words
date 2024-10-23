@@ -51,6 +51,5 @@ A abordagem adotada neste projeto inclui as seguintes etapas:
 | Modelo              | F1 Score | AUC  |
 |---------------------|----------|------|
 | Regressão Logística | 0.75     | 0.85 |
-| LSTM Bidirecional   | 0.80     | 0.88 |
-| BERT (fine-tuned)   | 0.85     | 0.90 |
+| LSTM Bidirecional   | 0.86     | 0.88 |
 
