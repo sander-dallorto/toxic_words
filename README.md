@@ -50,9 +50,4 @@ A abordagem adotada neste projeto inclui as seguintes etapas:
 4. **Avaliação**: Uso de métricas como **Acurácia**, **F1 Score** e **AUC** para avaliar o desempenho do modelo.
 5. **Ajuste de Hiperparâmetros**: Otimização dos parâmetros do modelo para melhorar o desempenho.
 
-## Requisitos
 
-Para executar o código, você precisa instalar as seguintes dependências:
-
-```bash
-pip install -r requirements.txt
